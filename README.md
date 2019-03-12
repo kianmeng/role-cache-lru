@@ -1,7 +1,3 @@
-[![Build Status](https://travis-ci.org/kianmeng/role-cache-lru.svg?branch=master)](https://travis-ci.org/kianmeng/role-cache-lru)
-[![codecov](https://codecov.io/gh/kianmeng/role-cache-lru/branch/master/graph/badge.svg)](https://codecov.io/gh/kianmeng/role-cache-lru)
-[![Coverage Status](https://coveralls.io/repos/kianmeng/role-cache-lru/badge.svg?branch=master)](https://coveralls.io/r/kianmeng/role-cache-lru?branch=master)
-[![Kwalitee status](http://cpants.cpanauthors.org/dist/Role-Cache-LRU.png)](http://cpants.charsbar.org/dist/overview/Role-Cache-LRU)
 [![Cpan license](https://img.shields.io/cpan/l/Role-Cache-LRU.svg)](https://metacpan.org/release/Role-Cache-LRU)
 [![Cpan version](https://img.shields.io/cpan/v/Role-Cache-LRU.svg)](https://metacpan.org/release/Role-Cache-LRU)
 
