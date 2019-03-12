@@ -3,7 +3,7 @@
 
 # NAME
 
-Role::Cache::LRU - Add LRU caching to any Moo classes.
+Role::Cache::LRU - LRU caching role for Moo class.
 
 # SYNOPSIS
 

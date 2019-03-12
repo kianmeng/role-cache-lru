@@ -50,7 +50,7 @@ __END__
 
 =head1 NAME
 
-Role::Cache::LRU - Add LRU caching to any Moo classes.
+Role::Cache::LRU - LRU caching role for Moo class.
 
 =head1 SYNOPSIS
 
