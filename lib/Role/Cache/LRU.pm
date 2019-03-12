@@ -9,7 +9,7 @@ use Moo::Role;
 use Sub::Quote qw(quote_sub);
 use Types::Standard qw(InstanceOf);
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 has cache => (
     isa => InstanceOf['Cache::LRU'],
