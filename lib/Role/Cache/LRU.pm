@@ -1,7 +1,5 @@
 package Role::Cache::LRU;
 
-our $VERSION = '0.01';
-
 use namespace::clean;
 use strictures 2;
 
@@ -10,6 +8,8 @@ use Carp qw(croak);
 use Moo::Role;
 use Sub::Quote qw(quote_sub);
 use Types::Standard qw(InstanceOf);
+
+our $VERSION = '0.01';
 
 has cache => (
     isa => InstanceOf['Cache::LRU'],
