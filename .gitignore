@@ -1,6 +1,7 @@
 /Role-Cache-LRU-*
 /.prove
 *.swp
+*.orig
 
 !Build/
 .last_cover_stats
