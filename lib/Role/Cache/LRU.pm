@@ -9,7 +9,11 @@ use Moo::Role;
 use Sub::Quote qw(quote_sub);
 use Types::Standard qw(InstanceOf);
 
+<<<<<<< HEAD
 our $VERSION = '0.03';
+=======
+our $VERSION = '0.01';
+>>>>>>> Fix Perl's critic warning
 
 has cache => (
     isa => InstanceOf['Cache::LRU'],
