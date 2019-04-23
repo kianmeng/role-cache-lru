@@ -22,7 +22,7 @@ Role::Cache::LRU is a Moo's role that provides LRU caching based on
 
 # DEVELOPMENT
 
-Source repo at [https://github.com/kianmeng/role-cache-lru](https://github.com/kianmeng/role-cache-lru).
+Source repository at [https://github.com/kianmeng/role-cache-lru](https://github.com/kianmeng/role-cache-lru).
 
 How to contribute? Follow through the [CONTRIBUTING.md](https://github.com/kianmeng/role-cache-lru/blob/master/CONTRIBUTING.md) document to setup your development environment.
 
