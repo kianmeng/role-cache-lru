@@ -10,7 +10,7 @@ Role::Cache::LRU - LRU caching role for Moo class.
     package MyPackage;
 
     use Moo;
-    use Role::Cache::LRU;
+    with 'Role::Cache::LRU';
 
     my $mp = MyPackage->new;
     $mp->set_cache('foo', {bar => 1});
