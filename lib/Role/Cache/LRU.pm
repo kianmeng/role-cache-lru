@@ -57,6 +57,7 @@ Role::Cache::LRU - LRU caching role for Moo class.
 =head1 SYNOPSIS
 
     package MyPackage;
+
     use Moo;
     use Role::Cache::LRU;
 
