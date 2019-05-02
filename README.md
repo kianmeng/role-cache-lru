@@ -61,6 +61,10 @@ Get the maximum cache size. The default maximum value is 1024.
     print $mp->get_cache_size();
     # 1024
 
+# AUTHOR
+
+Kian Meng, Ang <kianmeng@cpan.org>
+
 # COPYRIGHT AND LICENSE
 
 This software is Copyright (c) 2019 Kian Meng, Ang.
@@ -68,10 +72,6 @@ This software is Copyright (c) 2019 Kian Meng, Ang.
 This is free software, licensed under:
 
     The Artistic License 2.0 (GPL Compatible)
-
-# AUTHOR
-
-Kian Meng, Ang <kianmeng@users.noreply.github.com>
 
 # SEE ALSO
 
