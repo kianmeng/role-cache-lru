@@ -1,7 +1,7 @@
 package Role::Cache::LRU;
 
-use namespace::clean;
 use strictures 2;
+use namespace::clean;
 
 use Cache::LRU;
 use Carp qw(croak);
